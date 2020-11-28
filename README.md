@@ -20,4 +20,4 @@ the folder `generator/RESOURCES/`.
 ## Processing of questionnaire
 Is located in `questroud/` folder (based on
 [Questiroud](https://github.com/david-salac/Questiroud-simple-quiz-application)
-application).
+application). PHP in version 5.6+ is required.
