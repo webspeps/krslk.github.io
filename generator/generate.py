@@ -8,9 +8,9 @@ from dataclasses import dataclass
 PATH_TO_TEMPLATES = Path('TEMPLATES/')
 PATH_TO_RESOURCES = Path('RESOURCES/')
 PATH_TO_OUTPUT = Path('../docs/')
-URL_ROOT = "https://krs-lk.cz/"
+URL_ROOT = "http://krs-lk.cz/"
 
-link_to_homepage = "index.html"  # In production always '/'
+link_to_homepage = "/"  # In production always '/'
 html_file_suffix = ".html"
 
 
@@ -66,21 +66,21 @@ pages = [
          description="Pobočný spolek Rada seniorů České republiky, Krajská rada seniorů Libereckého kraje, p.s. se zaměřuje na všechny oblasti spojené s ochranou seniorů.",  # noqa: E501
          url="index",
          content_file='page_homepage.html',
-         last_mod=datetime.datetime(2020, 11, 7)
+         last_mod=datetime.datetime(2020, 11, 28)
          ),
     Page(title="Dotazník | Krajská rada seniorů Libereckého kraje",
          keywords="ochrana práv, volnočasové aktivity, senioři, dostupné bydlení, péče",
          description="Pobočný spolek Rada seniorů České republiky, Krajská rada seniorů Libereckého kraje, p.s. se zaměřuje na všechny oblasti spojené s ochranou seniorů.",  # noqa: E501
          url="dotaznik",
          content_file='page_dotaznik.html',
-         last_mod=datetime.datetime(2020, 11, 7)
+         last_mod=datetime.datetime(2020, 11, 28)
          ),
     Page(title="Licence | Krajská rada seniorů Libereckého kraje",
          keywords="ochrana práv, volnočasové aktivity, senioři, dostupné bydlení, péče",
          description="Pobočný spolek Rada seniorů České republiky, Krajská rada seniorů Libereckého kraje, p.s. se zaměřuje na všechny oblasti spojené s ochranou seniorů.",  # noqa: E501
          url="licence",
          content_file='page_license.html',
-         last_mod=datetime.datetime(2020, 11, 7)
+         last_mod=datetime.datetime(2020, 11, 28)
          )
 ]
 
