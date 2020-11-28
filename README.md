@@ -24,4 +24,4 @@ application). Script has to run on server with PHP in version 5.6+.
 
 It is also necessary to configure the end-point in the file
 `generator/RESOURCES/js/questiroud.js` to point-out on this server-side
-application.
+application (variables `JSON_URL` and `TARGET_POST_URL` in this file).
