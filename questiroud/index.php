@@ -360,7 +360,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // Generate email HTML code
     $score_plus_email = prepare_result_message($json_decoded, $selected_values, $name_of_user, $address);
-    $email_body_text = $score_plus_email[0];
+    $email_body_text = $score_plus_email[0]."<p>Email uživatele: ".$address."</p>";
     $total_achieved_score = $score_plus_email[1];
     $short_email_body_text = render_short_email($total_achieved_score, $name_of_user, $address);
 

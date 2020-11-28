@@ -247,7 +247,7 @@
             ]
         },
         {
-            "question": "Mohu přecházet vozovku když sviti zelená a slyším houkání houkačky (hasiči, sanitka, policie?)",
+            "question": "Mohu přecházet vozovku když svítí zelená a slyším houkání houkačky (hasiči, sanitka, policie?)",
             "type": "one_correct",
             "required": true,
             "options": [
