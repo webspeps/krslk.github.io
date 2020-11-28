@@ -14,7 +14,7 @@ pip3 install Jinja2
 The generator source code of pages is in Jinja2-based files in folders
 `generator/TEMPLATES/`.
 
-Pictures, scripts and CSS styles (resources) and styles are in
+Pictures, scripts and CSS styles (generally all resources) are in
 the folder `generator/RESOURCES/`.
 
 ## Processing of questionnaire
