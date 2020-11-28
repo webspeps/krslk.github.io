@@ -1,0 +1,360 @@
+{
+    "questionnaire": [
+        {
+            "question": "Na jakém čísle tísňového volání se dovoláme pomoci všech základních složek IZS (Integrovaného záchranného systému)?",
+            "type": "one_correct",
+            "required": true,
+            "options": [
+                {
+                    "option": "150",
+                    "correct": false
+                },
+                {
+                    "option": "112",
+                    "correct": true
+                },
+                {
+                    "option": "158",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "V případě vzniku požáru v bytě nebo v domě, kdy už nás ohrožuje toxický kouř:",
+            "type": "one_correct",
+            "required": true,
+            "options": [
+                {
+                    "option": "Zůstaneme v bytě, zavřeme okna a dveře, budeme se držet u země a okamžitě požár oznámíme na tísňové lince 150",
+                    "correct": false
+                },
+                {
+                    "option": "Snažíme se dostat ven na vzduch, v budově se budeme pohybovat u země a chránit si dýchací cesty látkou a požár oznámíme na tísňové lince 150",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Kolik máme v ČR pro obyvatelstvo varovných signálů, které vydávají sirény?",
+            "type": "one_correct",
+            "required": true,
+            "options": [
+                {
+                    "option": "Jeden",
+                    "correct": true
+                },
+                {
+                    "option": "Tři",
+                    "correct": false
+                },
+                {
+                    "option": "Dva",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Jak zní varovný signál \"Všeobecná výstraha\"?",
+            "type": "one_correct",
+            "required": true,
+            "options": [
+                {
+                    "option": "Kolísavý tón, který připomíná vlny, trvající 140 s a může se až třikrát opakovat",
+                    "correct": true
+                },
+                {
+                    "option": "Kolísavý tón, který připomíná signál \"Hó-ří!\", trvající 120 s ",
+                    "correct": false
+                },
+                {
+                    "option": "Trvalý  tón, trvající 100 s",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Co uděláme bezprostředně po zaznění varovného signálu \"Všeobecná výstraha\"?",
+            "type": "one_correct",
+            "required": true,
+            "options": [
+                {
+                    "option": "Schováme se v nejbližší budově ve vyšších patrech, zavřeme za sebou okna a dveře a počkáme na další informace od záchranářů",
+                    "correct": true
+                },
+                {
+                    "option": "Okamžitě poběžíme domů a zavoláme na některou z tísňových linek, abychom dostali informace o tom, co se děje",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Kterými druhy hasicích přístrojů nesmíme hasit zařízení pod napětím?",
+            "type": "one_correct",
+            "required": true,
+            "options": [
+                {
+                    "option": "Práškovým",
+                    "correct": false
+                },
+                {
+                    "option": "Sněhovým",
+                    "correct": false
+                },
+                {
+                    "option": "Vodním a pěnovým",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Jaký je vhodný postup při hašení vzníceného oleje na pánvičce ve Vaší domácnosti?",
+            "type": "one_correct",
+            "required": true,
+            "options": [
+                {
+                    "option": "Do hořícího oleje stačí nalít větší hrnek vody, olej bezpečně uhasne",
+                    "correct": false
+                },
+                {
+                    "option": "Hořící olej se musí překrýt pokličkou, plechem nebo mokrou látkou, aby se přestal okysličovat, v žádném případě se do něj nesmí lít voda",
+                    "correct": true
+                },
+                {
+                    "option": "Plamen sfoukneme",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Co uděláte v případě, že je podomní prodej obecně závaznou vyhláškou ve Vaší obci zakázán, a navštíví Vás podomní obchodník a dožaduje se vstupu do Vašeho bytu",
+            "type": "one_correct",
+            "required": true,
+            "options": [
+                {
+                    "option": "Zavolám obecní policii",
+                    "correct": true
+                },
+                {
+                    "option": "Pošlu na něj psa",
+                    "correct": false
+                },
+                {
+                    "option": "Pozvu ho dál, je to přece slušné",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "V případě uzavření smlouvy o dodávkách energií při podomním prodeji mám právo od takové smlouvy odstoupit ve lhůtě:",
+            "type": "one_correct",
+            "required": true,
+            "options": [
+                {
+                    "option": "30 pracovních dnů",
+                    "correct": false
+                },
+                {
+                    "option": "14 kalendářních dnů",
+                    "correct": true
+                },
+                {
+                    "option": "Nemůžu smlouvu zrušit, pokud jsem si obchodníka pozvala domů sama",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Smlouva uzavřená po telefonu:",
+            "type": "one_correct",
+            "required": true,
+            "options": [
+                {
+                    "option": "Je platná, a prodávající po mě může vymáhat, abych zboží zaplatil",
+                    "correct": true
+                },
+                {
+                    "option": "Je platná, ale pouze pokud ji dodatečně podepíšu v papírové formě",
+                    "correct": false
+                },
+                {
+                    "option": "Není platná, rozhovorem po telefonu přece nelze smlouvu uzavřít",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Kde je chodec povinen mít na sobě prvky z retroreflexního materiálu umístěné tak, aby byly viditelné pro ostatní účastníky provozu na pozemních komunikacích:",
+            "type": "one_correct",
+            "required": true,
+            "options": [
+                {
+                    "option": "Všude i ve městě",
+                    "correct": false
+                },
+                {
+                    "option": "Pohybuje-li se chodec za snížené viditelnosti po krajnici nebo po okraji vozovky v místě, které není osvětleno veřejným osvětlením mimo obec",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Řidič-senior musí absolvovat první povinnou lékařskou prohlídku ve svých:",
+            "type": "one_correct",
+            "required": true,
+            "options": [
+                {
+                    "option": "65 letech, další v 68 letech a poté každé dva roky",
+                    "correct": true
+                },
+                {
+                    "option": "60 letech, další v 65 letech a poté každé dva roky ",
+                    "correct": false
+                },
+                {
+                    "option": "70 letech a poté každé dva roky ",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Existuje pro chodce absolutní přednost na přechodu pro chodce?",
+            "type": "one_correct",
+            "required": true,
+            "options": [
+                {
+                    "option": "Ano",
+                    "correct": false
+                },
+                {
+                    "option": "Ne",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Kde není chodník nebo je-li neschůdný, chodí se po:",
+            "type": "one_correct",
+            "required": true,
+            "options": [
+                {
+                    "option": "Levé krajnici",
+                    "correct": true
+                },
+                {
+                    "option": "Pravé krajnici",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Mohu přecházet vozovku když sviti zelená a slyším houkání houkačky (hasiči, sanitka, policie?)",
+            "type": "one_correct",
+            "required": true,
+            "options": [
+                {
+                    "option": "Ano",
+                    "correct": false
+                },
+                {
+                    "option": "Ne",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Které z následujících hesel je nejbezpečnější při využívání internetu?",
+            "type": "one_correct",
+            "required": true,
+            "options": [
+                {
+                    "option": "1234567",
+                    "correct": false
+                },
+                {
+                    "option": "cKm28*R",
+                    "correct": true
+                },
+                {
+                    "option": "Karel1952",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Mezi sociální sítě nepatří",
+            "type": "one_correct",
+            "required": true,
+            "options": [
+                {
+                    "option": "www.instagram.com",
+                    "correct": false
+                },
+                {
+                    "option": "www.seznam.cz",
+                    "correct": true
+                },
+                {
+                    "option": "www.facebook.com",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Co je to „hoax“?",
+            "type": "one_correct",
+            "required": true,
+            "options": [
+                {
+                    "option": "E-mail, který varuje před virem, který ve skutečnosti neexistuje",
+                    "correct": true
+                },
+                {
+                    "option": "Název zvláště nebezpečného viru",
+                    "correct": false
+                },
+                {
+                    "option": "program, který lze použít k ochraně počítače před viry",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "question": "Mají chodci přednost před projíždějící tramvají?",
+            "type": "one_correct",
+            "required": true,
+            "options": [
+                {
+                    "option": "Ano, chodec má vždy přednost.",
+                    "correct": false
+                },
+                {
+                    "option": "Ano, pokud jsou na přechodu.",
+                    "correct": false
+                },
+                {
+                    "option": "Ne, nikdy.",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "question": "Jak se nazývá podvodná technika používaná na internetu k získání citlivých údajů. Podvodníci např. vyzývají adresáta k zadání osobních údajů na falešnou stránku, jejíž podoba je takřka identická s tou oficiální.",
+            "type": "one_correct",
+            "required": true,
+            "options": [
+                {
+                    "option": "Phising",
+                    "correct": true
+                },
+                {
+                    "option": "Phreaking",
+                    "correct": false
+                },
+                {
+                    "option": "Networking",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}
