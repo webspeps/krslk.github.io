@@ -68,11 +68,11 @@ pages = [
          content_file='page_homepage.html',
          last_mod=datetime.datetime(2020, 11, 28)
          ),
-    Page(title="Dotazník | Krajská rada seniorů Libereckého kraje",
+    Page(title="Test | Krajská rada seniorů Libereckého kraje",
          keywords="ochrana práv, volnočasové aktivity, senioři, dostupné bydlení, péče",
          description="Pobočný spolek Rada seniorů České republiky, Krajská rada seniorů Libereckého kraje, p.s. se zaměřuje na všechny oblasti spojené s ochranou seniorů.",  # noqa: E501
-         url="dotaznik",
-         content_file='page_dotaznik.html',
+         url="test",
+         content_file='page_test.html',
          last_mod=datetime.datetime(2020, 11, 28)
          ),
     Page(title="Licence | Krajská rada seniorů Libereckého kraje",

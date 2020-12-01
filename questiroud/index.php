@@ -6,7 +6,7 @@ define("LINK_TO_JSON", "questions.json");  // Link to JSON file (or URL)
 define("DEBUG_MODE", false); // For running locally only (does not generate email and file, just print email body in response)
 define("ALLOW_SAME_ORIGIN", true); // Add the header 'Access-Control-Allow-Origin: *'
 define("FILE_PATH_TO_EXPORT", "odpovedi.csv"); // Path to file where information about user are exported
-$EMAIL_COPY_E_MAILS = array("info@garpon.cz");  // Where to send copy of email
+$EMAIL_COPY_E_MAILS = array("info@garpon.cz", "krs-lk@seznam.cz");  // Where to send copy of email
 /* ========================================================================= */
 
 /* ====================== EMAIL CONFIGURATION ============================== */
