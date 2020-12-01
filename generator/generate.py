@@ -66,21 +66,28 @@ pages = [
          description="Pobočný spolek Rada seniorů České republiky, Krajská rada seniorů Libereckého kraje, p.s. se zaměřuje na všechny oblasti spojené s ochranou seniorů.",  # noqa: E501
          url="index",
          content_file='page_homepage.html',
-         last_mod=datetime.datetime(2020, 11, 28)
+         last_mod=datetime.datetime(2020, 12, 1)
          ),
     Page(title="Test | Krajská rada seniorů Libereckého kraje",
          keywords="ochrana práv, volnočasové aktivity, senioři, dostupné bydlení, péče",
          description="Pobočný spolek Rada seniorů České republiky, Krajská rada seniorů Libereckého kraje, p.s. se zaměřuje na všechny oblasti spojené s ochranou seniorů.",  # noqa: E501
          url="test",
          content_file='page_test.html',
-         last_mod=datetime.datetime(2020, 11, 28)
+         last_mod=datetime.datetime(2020, 12, 1)
          ),
     Page(title="Licence | Krajská rada seniorů Libereckého kraje",
          keywords="ochrana práv, volnočasové aktivity, senioři, dostupné bydlení, péče",
          description="Pobočný spolek Rada seniorů České republiky, Krajská rada seniorů Libereckého kraje, p.s. se zaměřuje na všechny oblasti spojené s ochranou seniorů.",  # noqa: E501
          url="licence",
          content_file='page_license.html',
-         last_mod=datetime.datetime(2020, 11, 28)
+         last_mod=datetime.datetime(2020, 12, 1)
+         ),
+    Page(title="Poradna | Krajská rada seniorů Libereckého kraje",
+         keywords="ochrana práv, volnočasové aktivity, senioři, dostupné bydlení, péče",
+         description="Pobočný spolek Rada seniorů České republiky, Krajská rada seniorů Libereckého kraje, p.s. se zaměřuje na všechny oblasti spojené s ochranou seniorů.",  # noqa: E501
+         url="poradna",
+         content_file='page_poradna.html',
+         last_mod=datetime.datetime(2020, 12, 1)
          )
 ]
 

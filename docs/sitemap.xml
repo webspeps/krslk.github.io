@@ -2,12 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://krs-lk.cz/</loc>
-    <lastmod>2020-11-28</lastmod>
+    <lastmod>2020-12-01</lastmod>
   </url><url>
     <loc>http://krs-lk.cz/test.html</loc>
-    <lastmod>2020-11-28</lastmod>
+    <lastmod>2020-12-01</lastmod>
   </url><url>
     <loc>http://krs-lk.cz/licence.html</loc>
-    <lastmod>2020-11-28</lastmod>
+    <lastmod>2020-12-01</lastmod>
+  </url><url>
+    <loc>http://krs-lk.cz/poradna.html</loc>
+    <lastmod>2020-12-01</lastmod>
   </url>
 </urlset>
