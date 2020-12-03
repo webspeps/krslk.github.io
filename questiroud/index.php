@@ -18,7 +18,7 @@ define("EMAIL_REPLY_E_MAIL", "krs-lk@seznam.cz");  // To what email reply
 
 /* ====================== CONTENT DEFINITION =============================== */
 define("ADDRESSING_PREFIX", "Dobrý den "); // How do you wish to address user
-define("ADDRESSING_SUFFIX", ",<p>Děkujeme Vám za vyplnění dotazníku, zde vám zasíláme jeho vyhodnocení.</p>"); // Suffix after addressing (technically everything between content and addressing)
+define("ADDRESSING_SUFFIX", ",<p>Děkujeme Vám za vyplnění dotazníku, zde vám zasíláme jeho vyhodnocení.<br>Správné výsledky testu zveřejníme 16. 12. 2020 po ukončení soutěže.</p>"); // Suffix after addressing (technically everything between content and addressing)
 define("CONTENT_SUFFIX", "<p>Děkujeme a s pozdravem,<br>Rada seniorů České republiky, Krajská rada seniorů Libereckého kraje, p.s.</p>");  // Technically the last paragraph of email
 define("QUESTION_SCORE_PREFIX", "Skore za otázku: "); // The prefix for score of a question
 define("QUESTION_SCORE_SUFFIX", " bodu."); // Suffix after score for each question
