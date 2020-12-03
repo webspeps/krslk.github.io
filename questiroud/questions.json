@@ -343,7 +343,7 @@
             "required": true,
             "options": [
                 {
-                    "option": "Phising",
+                    "option": "Phishing",
                     "correct": true
                 },
                 {
