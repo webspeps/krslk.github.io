@@ -8,7 +8,7 @@ from dataclasses import dataclass
 PATH_TO_TEMPLATES = Path('TEMPLATES/')
 PATH_TO_RESOURCES = Path('RESOURCES/')
 PATH_TO_OUTPUT = Path('../docs/')
-URL_ROOT = "http://krs-lk.cz/"
+URL_ROOT = "https://krs-lk.cz/"
 
 link_to_homepage = "/"  # In production always '/'
 html_file_suffix = ".html"
