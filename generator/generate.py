@@ -73,7 +73,7 @@ pages = [
          description="Pobočný spolek Rada seniorů České republiky, Krajská rada seniorů Libereckého kraje, p.s. se zaměřuje na všechny oblasti spojené s ochranou seniorů.",  # noqa: E501
          url="test",
          content_file='page_test.html',
-         last_mod=datetime.datetime(2020, 12, 1)
+         last_mod=datetime.datetime(2020, 12, 21)
          ),
     Page(title="Licence | Krajská rada seniorů Libereckého kraje",
          keywords="ochrana práv, volnočasové aktivity, senioři, dostupné bydlení, péče",
